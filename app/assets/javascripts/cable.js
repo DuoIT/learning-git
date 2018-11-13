@@ -11,5 +11,6 @@
   App.cable = ActionCable.createConsumer();
 
 }).call(this); 
+
 Mot hai ba
 Bon nam sau
